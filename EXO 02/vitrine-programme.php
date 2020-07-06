@@ -1,10 +1,10 @@
-[13:49] Nathan Portier (Invité)
+
     
 
 <!DOCTYPEhtml>
 <html>
 <head>
-<title>Programme</title>
+<h1>Programme</h1>
 <metacharset="UTF-8">
 <linkrel="stylesheet"href="Style/vitrine.css">
 </head>
@@ -12,10 +12,6 @@
 <body>
 <header>
 <nav>
-<ahref="vitrine-accueil.php">ACCUEIL</a>
-<ahref="vitrine-programme.php">PROGRAMME</a>
-<ahref="vitrine-contacts.php">CONTACT</a>
-</nav>
 <h1>Summer Code Camp</h1>
  
 </header>
