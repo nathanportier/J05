@@ -12,9 +12,9 @@
 <body>
 <header>
 <nav>
-<ahref="vitrine-accueil.html">ACCUEIL</a>
-<ahref="vitrine-programme.html">PROGRAMME</a>
-<ahref="vitrine-contacts.html">CONTACT</a>
+<ahref="vitrine-accueil.php">ACCUEIL</a>
+<ahref="vitrine-programme.php">PROGRAMME</a>
+<ahref="vitrine-contacts.php">CONTACT</a>
 </nav>
 <h1>Summer Code Camp</h1>
  
