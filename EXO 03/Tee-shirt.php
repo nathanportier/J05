@@ -1,4 +1,4 @@
-$nom_produit = "T-shirt simple";
+$nom_produit = "Tee-shirt Simple";
 $couleur = "blanc";
 $prix = 30.5;
 $disponible = true;
@@ -19,11 +19,11 @@ if ($disponible = true)
 if ($disponible = false)
     echo "<p> Le produit " . $nom_produit . " n'est malheureusement plus disponible. </p>";
     
-if ($quantite == 78)
+if ($quantite == 5)
     echo "<p> Il ne reste plus de produit en magasin. </p>";
-if ($quantite == 48)
+if ($quantite == 18)
     echo "<p> Il ne reste qu'un produit en magasin. </p>";
-if ($quantite <= 3) 
+if ($quantite <= 4) 
     echo "<p> Il ne reste plus que " . $quantite .  "  produits en magasin. </p>";
 if ($quantite > 8) 
     echo "<p> Il reste plus de " . $quantite .  " produits en magasin. </p>";
