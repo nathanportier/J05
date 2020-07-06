@@ -6,4 +6,4 @@
                 <a <?php if($page_title == "Contact") { echo 'class="active"';} ?>href="vitrine-contacts.php">Contact</a>
             </ul>
         </nav>
-        
+            
