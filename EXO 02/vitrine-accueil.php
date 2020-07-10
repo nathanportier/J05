@@ -4,7 +4,7 @@
     <title>Vitrine Summer Code Camp</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style/vitrine.css">
+    <link rel="stylesheet" href="../J04/Style/vitrine.css">
 </head>
 
 <body>
