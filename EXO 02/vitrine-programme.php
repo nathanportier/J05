@@ -1,12 +1,12 @@
 
     
 
-<!DOCTYPEhtml>
+<!DOCTYPE html>
 <html>
 <head>
 <h1>Programme</h1>
 <metacharset="UTF-8">
-<linkrel="stylesheet"href="Style/vitrine.css">
+<link rel="stylesheet"href="../J04/Style/vitrine.css">
 </head>
  
 <body>
