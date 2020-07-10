@@ -1,20 +1,20 @@
 [13:49] Nathan Portier (Invité)
     
 
-<!DOCTYPEhtml>
+<!DOCTYPE html>
 <html>
 <head>
 <title>Contacts</title>
 <metacharset="UTF-8">
-<linkrel="stylesheet"href="Style/vitrine.css">
+<link rel="stylesheet"href="../J04/Style/vitrine.css">
 </head>
  
 <body>
 <header>
 <nav>
-<ahref="vitrine-accueil.php">ACCUEIL</a>
-<ahref="vitrine-programme.php">PROGRAMME</a>
-<ahref="vitrine-contacts.php">CONTACT</a>
+<a href="vitrine-accueil.php">ACCUEIL</a>
+<a href="vitrine-programme.php">PROGRAMME</a>
+<a href="vitrine-contacts.php">CONTACT</a>
 </nav>
 <h1>Summer Code Camp</h1>
  
@@ -47,7 +47,7 @@
 </main>
 
 <footer>
-<ahref="http://www.epitech.eu"><imgsrc=logo_epitech.png></a>
+<a href="http://www.epitech.eu"><imgsrc=logo_epitech.png></a>
 
 
 </footer>
