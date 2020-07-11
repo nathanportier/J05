@@ -14,7 +14,7 @@
 <nav>
 <a href="vitrine-accueil.php">ACCUEIL</a>
 <a href="vitrine-programme.php">PROGRAMME</a>
-<a href="vitrine-contacts.php">CONTACT</a>
+<a href="vitrine-contact.php">CONTACT</a>
 </nav>
 <h1>Summer Code Camp</h1>
  
